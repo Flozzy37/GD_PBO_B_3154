@@ -34,9 +34,9 @@ function berikanUangSaku(daftar) {
   daftar.forEach((x) => x.terimaUangSaku(1500000));
 }
 
-const budi = new Programmer("Budi_XXXX");
-const rina = new Magang("Rina_XXXX");
-const sari = new Desainer("Sari_XXXX");
+const budi = new Programmer("Budi_3154");
+const rina = new Magang("Rina_3154");
+const sari = new Desainer("Sari_3154");
 
 budi.info();
 rina.info();
